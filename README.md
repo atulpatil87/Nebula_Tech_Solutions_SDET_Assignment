@@ -11,9 +11,9 @@ src/
 │ └── LoginPage.java # Page Object Model (POM) for login page
 ├── test/
 │ └── java/
-│ ├── tests/
-│ │ ├── LoginTest.java # UI Automation Test (Selenium + TestNG)
-│ │ └── APITest.java # API Test (Rest Assured)
+│ └── tests/
+│ ├── LoginTest.java # UI Automation Test (Selenium + TestNG)
+│ └── APITest.java # API Test (Rest Assured)
 pom.xml # Maven dependencies
 
 
